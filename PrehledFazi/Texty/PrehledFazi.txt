@@ -1,0 +1,2 @@
+{"font" : "arial", "velikost" : 2, "pozice" : (0, 1.5), "bold" : False, "italic" : False, "underline" : False, "meziradky" : 0, "barva": (0, 0, 0), "zarovnani" : (0.5, 0.5)}
+Na tahu je {objekt[0].jmeno} a je {objekt[1]}. fáze

@@ -1,0 +1,5 @@
+{"font" : "arial", "velikost" : 10, "pozice" : (0, 33), "bold" : False, "italic" : False, "underline" : False, "meziradky" : 1, "barva": (255, 221, 85), "zarovnani" : (0.5, 0.5)}
+Vyber si počet hráčů
+Počet hráčů: {udaj[0]}
+[(41, "next"), (58, 10), "PosuvnikPodklad.png", "Posuvnik.png", 5, (2, 6), 255]
+[(41, "next"), (58, 10), "Dale.png", "Funkce.PotvrditPocetHracu", 255]

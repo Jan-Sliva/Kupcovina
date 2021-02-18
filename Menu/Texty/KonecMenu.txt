@@ -1,0 +1,4 @@
+{"font" : "arial", "velikost" : 9, "pozice" : (0, 5), "bold" : False, "italic" : False, "underline" : False, "meziradky" : 1, "barva": (255, 221, 85), "zarovnani" : (0.5, 0.5)}
+Konec hry
+{"velikost" : 8, "pozice" : (0, "next")}
+/vlozit0

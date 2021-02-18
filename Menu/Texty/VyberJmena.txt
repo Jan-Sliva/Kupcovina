@@ -1,0 +1,2 @@
+{"font" : "arial", "velikost" : 10, "pozice" : (0, 33), "bold" : False, "italic" : False, "underline" : False, "meziradky" : 1, "barva": (255, 221, 85), "zarovnani" : (0.5, 0.5)}
+{objekt[0]}.hráči, vyber si jméno

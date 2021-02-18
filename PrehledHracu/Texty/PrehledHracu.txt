@@ -1,0 +1,2 @@
+{"font" : "arial", "velikost" : 2, "pozice" : (0, 0), "bold" : False, "italic" : False, "underline" : False, "meziradky" : 0.3, "barva": (0, 0, 0), "zarovnani" : (0, 0)}
+/vlozit0

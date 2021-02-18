@@ -1,0 +1,5 @@
+{"font" : "arial", "velikost" : 2.5, "pozice" : (0, 0), "bold" : True, "italic" : False, "underline" : False, "meziradky" : 0.4, "barva": (0, 0, 0), "zarovnani" : (0, 0)}
+{objekt.Nazev}
+{"velikost" : 2, "pozice" : (0.2, "next"), "bold" : False}
+Ztratil jsi {objekt.Pocet}
+[("next", "same"), (2.4, "same+"), "Peniz.png", "None", 255]

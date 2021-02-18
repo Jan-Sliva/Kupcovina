@@ -1,0 +1,4 @@
+Pozadi.png
+{"norm1" : "tile_img_norm_1.png", "norm2" : "tile_img_norm_2.png", "norm3" : "tile_img_norm_3.png", "repo1": "tile_img_repository1.png", "repo2": "tile_img_repository2.png", "repo3": "tile_img_repository3.png", "trea" : "tile_img_treasure.png", "city" : "tile_img_city.png", "trea_empty" : "tile_img_treasure_empty.png"}
+Pozadi_policko.png
+(255, 255, 255)

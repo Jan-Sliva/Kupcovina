@@ -1,0 +1,6 @@
+{"font" : "arial", "velikost" : 2.5, "pozice" : (0, 0), "bold" : True, "italic" : False, "underline" : False, "meziradky" : 0.4, "barva": (0, 0, 0), "zarovnani" : (0, 0)}
+{objekt.Nazev}
+{"font" : "arial", "velikost" : 2, "pozice" : (0.2, "next"), "bold" : False, "italic" : False, "underline" : False, "meziradky" : 0.4, "barva": (0, 0, 0), "zarovnani" : (0, 0)}
+Náročnost políčka: {objekt.narocnost}
+Kupní cena {objekt.Surovina2Pad}: {objekt.KupniCena} 
+[("next", "same"), (2.4, "same+"), "Peniz.png", "None", 255]

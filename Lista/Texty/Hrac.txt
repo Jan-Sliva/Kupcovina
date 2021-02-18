@@ -1,0 +1,11 @@
+{"font" : "arial", "velikost" : 2.5, "pozice" : (0, 0), "bold" : True, "italic" : False, "underline" : False, "meziradky" : 0.4, "barva": (0, 0, 0), "zarovnani" : (0, 0)}
+{objekt.jmeno}
+{"font" : "arial", "velikost" : 2, "pozice" : (0.2, "next"), "bold" : False, "italic" : False, "underline" : False, "meziradky" : 0.4, "barva": (0, 0, 0), "zarovnani" : (0, 0)}
+Peníze: {objekt.penize} 
+[("next", "same"), (2.4, "same+"), "Peniz.png", "None", 255]
+Hedvábí: {objekt.hedvabi} 
+[("next", "same"), (2.5, "same+"), "Hedvabi.png", "None", 255]
+Otroci: {objekt.otroci} 
+[("next", "same"), (1.5, "same+"), "Otrok.png", "None", 255]
+Sůl: {objekt.sul} 
+[("next", "same"), (2, "same+"), "Sul.png", "None", 255]

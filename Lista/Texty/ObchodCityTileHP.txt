@@ -1,0 +1,14 @@
+{"font" : "arial", "velikost" : 2.5, "pozice" : (0, 0), "bold" : True, "italic" : False, "underline" : False, "meziradky" : 0.4, "barva": (0, 0, 0), "zarovnani" : (0, 0)}
+Město
+{"font" : "arial", "velikost" : 2, "pozice" : (0.2, "next"), "bold" : False, "italic" : False, "underline" : False, "meziradky" : 0.4, "barva": (0, 0, 0), "zarovnani" : (0, 0)}
+Prodat hedvábí 
+[("next", "same"), (2.5, "same+"), "Hedvabi.png", "None", 255]
+Cena za kus: {objekt.ProdejniCenaHedvabi} 
+[("next", "same"), (2.4, "same+"), "Peniz.png", "None", 255]
+Počet: {udaj[0]} 
+[("next", "same"), (2.5, "same+"), "Hedvabi.png", "None", 255]
+Celková cena: {seznam[0]} 
+[("next", "same"), (2.4, "same+"), "Peniz.png", "None", 255]
+[("same", "next"), (29.3, 3), "PosuvnikPodklad.png", "Posuvnik.png", 5, (1, 5), 255]
+[("same", "next"), (8, 5), "Prodat.png", "Funkce.ProdatHedvabi", 255]
+[(9, "same"), (8, 5), "Zpet.png", "Funkce.ZpetObchodCityTile", 255]
